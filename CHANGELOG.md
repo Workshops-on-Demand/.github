@@ -1,3 +1,13 @@
+v1.0.2
+- Adds HPE Developer Community Meetup 2025 (wod)
+- private-public uses the new wod-install (wod-private)
+- templates of content for a private repo (wod-private)
+- Fix #7 when remaining apt process exists and install fails (wod-install)
+- Remove the dotnet and Ijava kernel and tool setup to do it in private (wod-backend)
+- Fix #4 by using JPHUB var to amend .profile (wod-backend)
+- Fix #9 as ansible variables are not expanded after the raw instruction (wod-api-db)
+- Force pg17 as 18 create issues with no_null for now (wod-api-db)
+
 v1.0.1
 - Manage workshop badges either by URL or local file hosted on the frontend.
 - Remove now unavailable references to pam_lastlog if present (wod-install)
