@@ -102,3 +102,7 @@ On the frontend machine:
 ```
 
 Note that the installer should support Rocky/Alma or Debian fairly easily instead of Ubuntu, but tests have not been fully performed. Contributions welcome.
+
+# Licensing and Copyright
+
+For Licensing and Copyright information, please read [COPYRIGHT.md](https://github.com/Workshops-on-Demand/.github/blob/main/COPYRIGHT.md)
