@@ -14,6 +14,8 @@ The WoD infrastructure comprises 3 differents systems to work, that are usually 
 * a wod-api-db machine hosting the WoD API service and a PostgreSQL database to store live information about the running platform. Corresponding software on the repo [wod-api-db](https://github.com/Workshops-on-Demand/wod-api-db)
 * a wod-fronted machine, hosting the Web interface to see the list of available workshops and book one. Corresponding software on the repo [wod-frontend](https://github.com/Workshops-on-Demand/wod-frontend)
 
+All systems are installed using our [wod-install](https://github.com/Workshops-on-Demand/wod-install) installer.
+
 It is built on shoulders of giants
 ![Tools used by the WoD infrastructure](img/wod-repositories.png)
 

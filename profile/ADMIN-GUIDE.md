@@ -159,7 +159,7 @@ We have, actually, shared the fundamentals of the project thoughout the HPE Deve
 
 In 2022, we were contacted by an HPE colleague who was willing to replicate our setup in order to deliver notebooks to its AI/ML engineers. His aim was to provide a simple, central point from which he could deliver Jupyter Notebooks, that would later be published on the Workshops-on-Demand infrastructure wod-frontend portal, allowing content to be reused and shared amongst engineers. While, over time, we had worked  a lot on automating content delivery and some parts of the infrastructure setup, we needed now to rework and package the overall solution to make it completely open source and reusable by others.
 
-As a result of our work on that project, over the course of 2022 we started to open source the Workshops-on-Demand program. As a project developed within the confiines of Hewlett Packard Enterprise (HPE), we had a number of technical, branding, and legal hurdles we needed to overcome in order to achieve this.
+As a result of our work on that project, over the course of 2022 we started to open source the Workshops-on-Demand program. As a project developed within the confines of Hewlett Packard Enterprise (HPE), we had a number of technical, branding, and legal hurdles we needed to overcome in order to achieve this.
 
 ### Legal side of things
 
